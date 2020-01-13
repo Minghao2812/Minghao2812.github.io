@@ -1,0 +1,86 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{person.css}, showsource
+# jemdoc: nofooter
+= Home
+
+~~~
+{}{img_left}{portrait.png}{Wang Minghao}{100px}{100px} \n
+\n
+*Wang Minghao*{{<a href="https://baike.baidu.com/item/中华人民共和国/106554">
+<img src="chinese_flag_small.png" alt="CHINA" width="10%" /></a>}} \n
+~~~
+
+== CONTACT
+[19454414@life.hkbu.edu.hk] \n
+\+852 93271665 \n
+\+86 15966652812
+~~~
+{}{img_left}{WeChat_QR_english.png}{WeChat Public Account QR code}{103.2px}{123.6px} \n
+~~~
+
+== EDUCATION
+- Hong Kong Baptist University
+    -- MSc in AI & Digital Media (enrollment: 2019\/09; expected graduation date: 2020\/05)
+    -- GPA(1st semester): 3.73
+
+- Communication University of China (211)
+    -- B.Eng. in Automation
+    -- Distinguished Graduate
+
+== ACADEMIC TRAINING & COURSES
+- Data Mining and Knowledge Discovery for Digital Media
+- Big Data Management and Analytics
+- AI for Digital Media
+- Basis of Circuit Analysis
+- Analog Electronic Technology
+
+== PORTFOLIO
+[https://drive.google.com/file/d/1P2jK8Jm1WvmMv7PXKOb_ifvC0zVc2FJ9/view?usp=sharing A Brief Analyse 
+about Missing Migrants] \n
+[https://www.youtube.com/watch?v=98ATnAcXqE0&t=39s Twitter Analyst in R] \n
+[https://drive.google.com/file/d/1Dtc3FicGQeQobDSu7OhadxSre9vz4LeG/view Which One Is Correct? 
+The Decision-Making Process Biased by Media and People’s Existing Memory] \n
+
+== RESEARCH EXPERIENCE
+*National Undergraduate Electronic Design Contest (2017, Beijing Area)*  /2017\/04-2019\/08/ \n
+/Group Leader/
+- Designed and made printed circuit board (PCB) including analog-to-digital converter, 
+    digital-to-analog converter, frequency meter, spectrum analyzer, voltage regulator, 
+    remote amplitude-frequency characteristic testing device and so on.
+- Managed how to break one big mission into multiple small tasks then assign them to my teammates 
+    and how to obey or collaborate with teammates.
+- Learned and mastered software like Multisim, Altium Designer to designed analog circuits.
+
+*Engineering Center of Digital Audio & Video (State Key Laboratory) and Broadcasting and Anchoring School,
+ Communication University of China* /2018\/05-2018\/09/ \n
+/Product Manager/
+- Launched a project to develop a “speech evaluation mini program”. 
+- Recruited group member and applied for funding.
+- Designed function and interface for this mini program.
+
+*Engineering Center of Digital Audio & Video (State Key Laboratory), Communication University of China* /2017\/09-2019\/06/ \n
+/Student Research Assistant/
+- Assisted professor to edit technical documentation.
+
+== INTERNS
+*INSPUR Co., Ltd., Video Networking Department, AI Group* /2019\/11-2020\/01/
+- Data cleaning of car brands labels for car recognition.
+- Organize documentation about word embedding libraries like Magnitude and Faiss.
+
+== SKILLS
+- Programming language: C\/C++\/scripting language (Python, R)\/CSS\/HTML
+- Database management using SQL
+- Data mining and knowledge discovery using scripting language
+- Circuit design: Multisim, Altium Designer
+- MS Office
+- Skills of documentary photography (topic selecting, shooting, editing)
+
+== LANGUAGE
+- Mandarin(native)
+- English (IELTS overall 6.5; reading 7.0; speaking 7.0; listening 6.5; writing 6.0)
+- Cantonese(learning)
+
+== ADDITIONAL EXPERIENCE
+- I was named the "Excellent Journalist of the Year" 
+- As a student union’s member in department of media, I released several reports.
+- Won school’s scholarship and named as Merit Student many times in CUC.  
