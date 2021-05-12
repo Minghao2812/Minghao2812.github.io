@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index_chinese.html}
 # jemdoc: addcss{person.css}, showsource
 # jemdoc: nofooter
 = 主页   
