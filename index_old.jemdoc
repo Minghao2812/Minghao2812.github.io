@@ -1,0 +1,126 @@
+# jemdoc: addcss{person.css}, showsource
+# jemdoc: nofooter
+= Home
+
+~~~
+{}{img_left}{portrait.png}{Wang Minghao}{100px}{100px} \n
+\n
+*Wang Minghao*{{<a href="https://baike.baidu.com/item/济南/135066">
+<img src="chinese_flag_small.png" alt="CHINA" width="10%" /></a>}} \n
+~~~
+
+== Contact Information
+[19454414@life.hkbu.edu.hk] \n
+[https://github.com/Minghao2812] \n
+~~~
+{}{img_left}{WeChat_QR_english.png}{WeChat Public Account QR code}{103.2px}{123.6px} \n
+~~~
+
+== Education
+- *H*ong *K*ong *B*aptist *U*niversity
+    -- MSc in AI & Digital Media
+    -- GPA: 3.8/4.0
+    -- 2019-2020 Merit-Based Scholarship
+
+- *C*ommunication *U*niversity of *C*hina (211)
+    -- B.Eng. in Automation
+    -- Distinguished Graduate
+
+== Academic Training & Cources
+- Recommender Systems for Digital Media
+- AI Theories and Applications
+- Data Mining and Knowledge Discovery for Digital Media
+- Big Data Management and Analytics
+- Basis of Circuit Analysis
+- Analog Electronic Technology
+
+== Project & Research Experience
+*[http://dwz.date/bdNm Analyzing pandemic information diffusion in news using topic model] (paper)* \n
+/2020\/02-2020\/05/ \n
+- Scraped 1127 pieces of news articles and 5563 corresponding comments from Jan to May 2020 on SCMP using methods including monitoring XHR.
+- Built a corpus; trained and tuned LDA topic model; mined the topic distribution in articles and comments.
+- Observed and analyzed the “inconsistence” between articles and comments.
+
+*[http://dwz.date/a3r6 Predicting Beijing housing price using MXNet] (paper)* \n
+/Group leader, 2020\/03-2020\/05/ \n
+- Analyzed the data components with visualization; cleaned data and selected available features.
+- Built a MLP using MXNet and tuned it.
+- Evaluated the model and predicted housing price on test set.
+
+*[http://dwz.date/bdNs Analyzing the information diffusion in nomination network using social network analyzing methods] (paper)* \n
+/2020\/02-2020\/05/ \n
+- Scraped 13740 pieces of Weibo original posts with the hashtag #手写加油接力#; cleaned data and built nomination network.
+- Analyzed the information diffusion mode in the nomination network.
+- Found the KOL in the network and analyzed their community construction and homogeneity from various perspectives.
+
+*[http://dwz.date/ZMJ Visualization analysis about missing migrants’ distribution] (paper)* \n
+/Group leader, 2019\/09-2019\/12/ \n
+- Cleaned data, conducted visualization using Python libraries like matplotlib and pyecharts.
+- Analyzed the relationship between factors including time, region, gender, age and causes.
+- Made a dynamic map of missing migrants’ distribution using folium.
+
+*Engineering Center of Digital Audio & Video (State Key Laboratory) and Broadcasting and Anchoring School,
+ Communication University of China* \n
+/Product Manager, 2018\/05-2018\/09/ \n
+- Launched a project to develop a “speech evaluation mini program”. 
+- Recruited group members and applied for funding.
+- Designed function and interface for this mini program.
+
+*National Undergraduate Electronic Design Contest (2017, Beijing Area)* \n
+/Group Leader, 2017\/04-2019\/08/ \n
+- Designed and made printed circuit board (PCB) including analog-to-digital converter, digital-to-analog converter, frequency meter, spectrum analyzer, voltage regulator, remote amplitude-frequency characteristic testing device and so on.
+- Break one big mission into small tasks and assign them to my teammates.
+
+== Wrok Experience
+*INSPUR Co., Ltd., Video Networking Department, AI Group* \n
+/Software Engineer Intern, 2019\/11-2020\/01/ \n
+- Data cleaning of car brands labels for car recognition.
+- Organize documentation about word embedding libraries like Magnitude and Faiss.
+
+*The Department of Photography, Jinan Times, Jinan Daily Newspapering Group* \n
+/Photojournalist Intern, 2017\/08-2017\/09/ \n
+- Help with topic selection, interviewing and shooting, story writing and editing.
+- Released several photo reports about Jinan Spring Festival and Jinan Art Fair.
+
+*Xiangqi Sports Service Center, Jinan* \n
+/Special Investigator of Shandong Sports Industry, 2016\/07-2016\/08/ \n
+- Finished 93 investigation reports fastest among the group (4 people working on 200 reports in all).
+- Proposed new schemes on simplifying workflow and optimized group efficiency.
+
+== PORTFOLIO
+[http://dwz.date/bdNm How Pandemic Spread in News: Text Analysis Using Topic Model] \n
+[http://dwz.date/bdNs How Information Diffuse in Nomination Network?] \n
+[http://dwz.date/a3r6 Beijing Housing Price Prediction Using Multilayer Perceptron] \n
+[http://dwz.date/ZMJ A Brief Analyse about Missing Migrants] \n
+[http://dwz.date/bdNu Twitter Analyst in R] \n
+[http://dwz.date/ZMK Design2Code: How AI Helps GUI Design] \n
+[http://dwz.date/ZMM Which One Is Correct? The Decision-Making Process Biased by Media and People’s Existing Memory] \n
+
+== SKILLS
+- Programming language: Python\/R\/C\/C\+\+\/HTML\/CSS/SQL
+- Circuit design: Multisim, Altium Designer
+- Photo and video editing: Lightroom, Photoshop, Premiere
+
+== Awards
+/Individual Awards/ \n
+- Merit-Based Scholarship, CUC, multiple times
+- Merit Student, CUC, 2018
+- Outstanding Reporter of the Year, CUC, 2018
+- 2nd Award (Documentary Group), "Ying·Shi·Ju" Photography Competition, CUC, 2018
+- 3rd Award, National Undergraduate Electronic Design Contest, 2017
+- 1st Award, Mechanical Innovation Design Competition, Technology Innovation Competition, CUC, 2017
+- 3rd Prize, Photography Competition of Shandong Photographers Association, 2017
+- "Best Topic" Award, "Ying·Shi·Ju" Photography Competition, CUC, 2016
+- "Zhongtian Guangdian" Scholarship, CUC, 2016
+
+/Group Awards/ \n
+- Beijing Excellent Class (I was the class monitor), 2017
+- "Lei Feng Class", CUC ( was the class monitor), 2017
+- Beijing Excellent Class (I was the class monitor), 2016
+- Excellent Class, CUC (I was the class monitor), 2016
+
+== LANGUAGE
+- Mandarin(native)
+- English (IELTS overall 6.5; reading 7.0; speaking 7.0; listening 6.5; writing 6.0)
+- Cantonese(conversant)   
+
