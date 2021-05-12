@@ -20,7 +20,7 @@
 == 教育经历
 - 香港浸会大学
     -- 人工智能与数码媒体理学硕士
-    -- GPA： 3.8/4.0
+    -- GPA： 3.8/4.0 (top 1%)
     -- 2019-2020 优异奖学金
 
 - 中国传媒大学
@@ -35,29 +35,17 @@
 - 电路分析基础
 - 模拟电子技术
 
-== Project and Research Experience
-*[http://dwz.date/bdNm 利用主题模型分析疫情信息在新闻中的扩散] (论文)* \n
-/2020\/02-2020\/05/ \n
-- 通过监听XHR等方法爬取了《南华早报》2020年1至5月的1127条新闻及对应的5563条评论
-- 构建语料库，训练并调优了LDA主题模型，挖掘了新闻、评论的主题分布
-- 观察、分析了新闻与评论之间的“主题偏差”现象
-
-*[http://dwz.date/a3r6 使用MXNet框架预测北京房价] (论文)* \n
+== 研究与项目经历
+**
+*使用MXNet框架预测北京房价 [http://dwz.date/a3r6 PDF]* \n
 /组长， 2020\/03-2020\/05/ \n
 - 可视化分析数据构成，清洗数据并选择可用特征；使用MXNet框架搭建多层感知机并调优
 - 评价模型并在测试集中对房价做出预测
 
-*[http://dwz.date/bdNs 利用社交网络分析方法研究提名网络中的信息扩散] (论文)* \n
-/2020\/02-2020\/05/ \n
-- 爬取共13740条 #手写加油接力# 话题下的原创微博，清洗数据并搭建提名网络
-- 分析了提名网络中的信息传播模式
-- 找到了提名网络中的意见领袖，并从多个维度分析了其社群构成原因与同质性
-
-*[http://dwz.date/ZMJ 全球难民分布可视化分析] (论文)* \n
+*全球难民分布可视化分析 [http://dwz.date/ZMJ PDF]* \n
 /组长，2019\/09-2019\/12/ \n
 - 清洗数据，利用matplotlib、pyecharts等Python库完成可视化，分析了时间、地区、性别、年龄、成因等的关系
 - 使用folium库完成全球难民分布的动态地图
-
 
 *广播电视数字化教育部工程研究中心（国家重点实验室）& 播音与主持艺术学院，中国传媒大学* \n
 /产品经理，2018\/05-2018\/09/ \n
@@ -70,6 +58,11 @@
 - 学会了如何将大任务拆分成小任务，然后将这些小任务有序分配给组员；掌握了领导与协作技能
 
 == 工作经历
+*香港浸会大学，Basics in Programming* \n
+/助教，2020\/09-2020\/12/ \n
+- 协助讲师
+
+
 *浪潮集团有限公司视频联网业务部人工智能小组* \n
 /软件工程师实习生，2019\/11-2020\/01/ \n
 - 为车辆识别进行车辆品牌的数据清洗
@@ -86,8 +79,6 @@
 - 提出了简化工作流程的方案，提高了全组的效率
 
 == 作品集
-[http://dwz.date/bdNm How Pandemic Spread in News: Text Analysis Using Topic Model] \n
-[http://dwz.date/bdNs How Information Diffuse in Nomination Network?] \n
 [http://dwz.date/a3r6 Beijing Housing Price Prediction Using Multilayer Perceptron] \n
 [http://dwz.date/ZMJ A Brief Analyse about Missing Migrants] \n
 [http://dwz.date/bdNu Twitter Analyst in R] \n
@@ -95,7 +86,7 @@
 [http://dwz.date/ZMM Which One Is Correct? The Decision-Making Process Biased by Media and People’s Existing Memory] \n
 
 == 技能
-- 编程语言: Python\/R\/C\/C\+\+\/HTML\/CSS/SQL
+- 编程语言: Python\/R\/SQL
 - 电路设计: Multisim, Altium Designer
 - 图片、视频编辑: Lightroom, Photoshop, Premiere
 
